@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- onboarding_survey___finished strings -->
+
+	<string name="app_name">Visual Design Playground</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="you_re_ready_to_begin__string">Youre Ready to Begin!</string>
+	<string name="thank_you__you_can_now_continue_and__see_what_courses_will_work_best_for_you__string">Thank you! You can now continue and see what courses will work best for you!</string>
+	<string name="next___string">Next ></string>
+	<string name="___back_string">< Back</string>
+	<string name="start_string">START</string>
+	<string name="flikshop_string">Flikshop</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- onboarding_survey___landing_page colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+	<color name="purple_200">#FFBB86FC</color>
+	<color name="purple_500">#FF6200EE</color>
+	<color name="purple_700">#FF3700B3</color>
+	<color name="teal_200">#FF03DAC5</color>
+	<color name="teal_700">#FF018786</color>
+	<color name="black">#FF000000</color>
+	<color name="white">#FFFFFFFF</color>
+
+
+	<color name="_bg__onboarding_survey___landing_page_color">#370C5A</color>
+	<color name="welcome_to_flikshop_color">#F3F4F6</color>
+	<color name="rectangle_2919_color">#FFFFFF</color>
+	<color name="_bg__onboarding_survey___flikshop_tutorial_color">#F3F4F6</color>
+	<color name="here_is_a_short_tutorial_of_how_to_use_and_navigate_flikshopme_color">#3F3C3C</color>
+	<color name="rectangle_3003_color">#F3F3F3</color>
+	<color name="rectangle_3004_color">#928F8F</color>
+
+</resources>

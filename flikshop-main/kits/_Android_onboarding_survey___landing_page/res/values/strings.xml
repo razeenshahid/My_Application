@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- onboarding_survey___landing_page strings -->
+
+	<string name="app_name">Visual Design Playground</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="welcome_to_flikshop_string">Welcome to Flikshop</string>
+	<string name="before_you_pick_your_first_course__we_want_to_learn_a_little_more_about_you_to_customize_your_learning_experience__string">Before you pick your first course, we want to learn a little more about you to customize your learning experience!</string>
+	<string name="continue_string">CONTINUE</string>
+</resources>

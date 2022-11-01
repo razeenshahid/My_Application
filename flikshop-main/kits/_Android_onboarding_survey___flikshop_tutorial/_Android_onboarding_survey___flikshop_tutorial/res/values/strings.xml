@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- onboarding_survey___flikshop_tutorial strings -->
+
+	<string name="app_name">Visual Design Playground</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="here_is_a_short_tutorial_of_how_to_use_and_navigate_flikshopme_string">Here is a short tutorial of how to use and navigate FlikshopMe</string>
+	<string name="flikshop_tutorial_string">Flikshop Tutorial</string>
+	<string name="back_string">Back</string>
+	<string name="need_help__string">Need Help?</string>
+	<string name="view_more_tutorials_string">VIew More Tutorials</string>
+	<string name="you_can_access_this_at_any_time_by_clicking_the_question_mark_icon_on_the_top_right_of_your_screen_string">You can access this at any time by clicking the question mark icon on the top right of your screen</string>
+	<string name="continue_string">CONTINUE</string>
+</resources>
